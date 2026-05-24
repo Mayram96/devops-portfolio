@@ -45,7 +45,7 @@ Cada TP tiene un entregable concreto en GitHub que demuestra lo aprendido en pr�
 |---|---|---|---|
 | 1 | Script de automatización del sistema | Bash, cron | [→ ver repo](https://github.com/mayram96/devops-TP01) |
 | 2 | Gestión de usuarios y permisos | Linux, chmod, useradd | [→ ver repo](https://github.com/mayram96/devops-TP02) |
-| 3 | Flujo Gitflow completo | Git, GitHub, branching | [→ ver repo](https://github.com/TU_USUARIO/devops-gitflow) |
+| 3 | Flujo Gitflow completo | Git, GitHub, branching | [→ ver repo](https://github.com/mayram96/devops-gitflow) |
 | 4 | YAML multi-entorno + diagnóstico de red | YAML, bash, ping, dig, curl | [→ ver repo](https://github.com/mayram96/devops-TP04) |
 
 ### 5 al 8 — Contenedores y CI/CD
