@@ -1,4 +1,4 @@
-cat > README.md << 'EOF'
+cat > README.md << 
 <div align="center">
 
 # DevOps Portfolio — Path Operaciones1
@@ -95,5 +95,5 @@ Cada repo tiene:
 - **[roadmap.sh/devops](https://roadmap.sh/devops)** — guía de qué aprender
 - **[GitHub](https://github.com)** — CI/CD con Actions (minutos gratis)
 - **[Docker Hub](https://hub.docker.com)** — registry de imágenes (plan free)
-EOF
+
 
